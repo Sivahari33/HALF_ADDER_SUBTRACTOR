@@ -1,3 +1,8 @@
+NAME:sivaharibalan.k
+R.NO:212224220103
+DEPT:IT
+
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -18,7 +23,8 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+![ex3 DE](https://github.com/user-attachments/assets/3045ae6d-d993-4509-818b-6968a8643d4e)
+
 
 Figure -01 HALF ADDER
 
@@ -28,12 +34,17 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
+![image](https://github.com/user-attachments/assets/f8822f43-880d-4f7b-a705-a34f293eabfd)
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
 
 **Truthtable**
+HALF ADDER:
+![WhatsApp Image 2025-04-15 at 11 50 16_68d9aacf](https://github.com/user-attachments/assets/65b2b71d-6e42-4c1d-a62b-bb07a78833f9)
+HALF SUBRACTOR:
+![image](https://github.com/user-attachments/assets/3448fc31-7c0a-4502-82c3-f09d67d3e432)
+
 
 **Procedure**
 
@@ -49,13 +60,21 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+HALF ADDER:
+![image](https://github.com/user-attachments/assets/b97eac46-54e5-4b82-8035-a0e8fd5bdc9f)
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:*/
-
-**RTL Schematic**
+HALF SUBRACTOR:
+![image](https://github.com/user-attachments/assets/2d7f4b45-598e-4bcd-93df-b0c496db842c)
 
 **Output/TIMING Waveform**
+HALF ADDER:
+![ex3](https://github.com/user-attachments/assets/120aad27-d243-4aa5-8259-e4a5ddb6ac4d)
+
+HALF SUBRACTOR:
+![image](https://github.com/user-attachments/assets/96e5be1f-3966-4e4d-961d-f883caecc9db)
+
+
+
 
 **Result:**
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming has been executed successfully.
